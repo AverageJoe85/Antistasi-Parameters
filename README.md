@@ -1,3 +1,13 @@
+|Factions|_________|_________|_________|_________|_________|_________|_________|_________|
+|:-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Arma 3 (2035)|CSAT|NATO|AAF|CSAT+AAF|Livonian Defence Force|
+|Arma 2 (2009)|Russian Federation|Czech Republic|Britain|Germany|Chernarussian Defence Forces|US Army/USMC|Takistani Army|ION Private Military Company|
+|Star Wars Clone Wars|Republic|CIS|Mandalorians||||||
+|Star Wars Empire|Empire||||||||
+|Halo|UNSC|Covenant|Insurrectionists|Flood (Civilians)|||||
+|WW2|Wehrmacht|Soviet|US Army|Imperial Japan|||||
+|Special|Zombies (Civilians)||||||||
+
 |Basic Params||_________|_________|_________|__|
 |-:|:-|:-:|:-:|:-:|:-:|
 |Game Mode - Do NOT change this mid mission||***Reb. vs Occ. vs Inv.*** [3 Sided War]|Reb. vs Occ. and Inv. [2 Sided War. Occupants and Invaders work together]|Reb. vs Occ. [2 Sided War. No Invaders]|
